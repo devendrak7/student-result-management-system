@@ -77,3 +77,28 @@ python Student_Result_Management_System.py
 
 - GitHub: https://github.com/devendrak7
 - LinkedIn: https://www.linkedin.com/in/devendra-kumawat-dk777
+## 📸 Screenshots
+
+### 🏠 Main Menu
+
+![Main Menu](screenshots/home.png)
+
+---
+
+### ➕ Add Student
+
+![Add Student](screenshots/add-student.png)
+
+---
+
+### 📋 View Students
+
+![View Students](screenshots/Search-Student.png)
+
+---
+
+### 🔍 Search Student
+
+![Search Student](screenshots/Update-Student.png)
+
+---
